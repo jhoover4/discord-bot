@@ -8,3 +8,9 @@
 #/target
 /Cargo.lock
 Secrets.toml
+
+# IDEs
+.idea
+
+# Mac
+.DS_Store
