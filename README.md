@@ -6,6 +6,11 @@ Stack includes: [serenity](https://github.com/serenity-rs/serenity) and [shuttle
 
 ## Current Features
 
-- Send message to channel every week to remind us of D&D day
+- Send inspiring message to body-improvement-club channel
 - Create a `/map` command that will return a google map url to the users residence or to spots we frequent often.
-- Respond "shockingly" to Andrew's posts.
+
+## Ideas
+
+- Benji quote generator?
+- Keep track of RDI/frisbee wins?
+- Book club pop up, that keeps track of current book, links it to Goodreads page, next meeting, and shows how we're gonna slice it up
